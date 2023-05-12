@@ -1,0 +1,11 @@
+body {
+  font-family: Roboto, sans-serif;
+  padding-bottom: 1rem
+}
+
+a {
+  font-style: none;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
