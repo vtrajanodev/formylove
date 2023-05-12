@@ -9,3 +9,11 @@ a {
   color: white;
   font-weight: bold;
 }
+
+.imageContainer {
+  display: block;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
